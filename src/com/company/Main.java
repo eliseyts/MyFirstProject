@@ -17,6 +17,7 @@ public class Main extends JFrame {
     public JButton enterButton;
     public JComboBox comboBox;
     public JComboBox leftBox;
+    //im hooy
     public JComboBox rightBox;
 
     public String leftButtonStr="кг";
